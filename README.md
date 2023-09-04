@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Giovanni</h1>
+<h1 align="center">Hola, soy Gio</h1>
 <p align="center">Cuento con más de 3 años de experiencia en el mundo del desarrollo web, tanto en Front End como Back End, siendo el Back End mi favorito, aunque me gusta aprender de los 2, por lo cual siempre me encuentro revisando nuevas tecnologías, estudiando, tomando cursos, etc. Me gustan los retos por ello no me niego a trabajar con tecnologías que no conozca, al contrario, creo que esto beneficia al crecimiento profesional.</p>
 
 <h3 align="left">Skills:</h3>
